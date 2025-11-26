@@ -1,0 +1,1 @@
+# KarmaQuest Backend\nRun `pip install -r requirements.txt` and `python app.py`\n
